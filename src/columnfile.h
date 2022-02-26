@@ -4,6 +4,7 @@
 #include <cstdint>
 #include <experimental/optional>
 #include <experimental/string_view>
+#include <functional>
 #include <map>
 #include <memory>
 #include <unordered_set>
