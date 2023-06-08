@@ -1,3 +1,9 @@
+libcolumnfile (1.0.1-2-ev) unstable; urgency=medium
+
+  * debian bookworm
+
+ -- Charles Samuels <kalle@eventures.vc>  Thu, 8 Jul 2019 10:49:32 -0700
+
 libcolumnfile (1.0.1-1-ev) unstable; urgency=medium
 
   * debian buster
